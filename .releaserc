@@ -28,7 +28,9 @@
       ]
     }
   ],
-  "publish": false,
+  "publish": [
+    "@semantic-release/github"
+  ],
   "success": false,
   "fail": false
 }
