@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/giautm/semantic-example/compare/v1.0.3...v1.0.4) (2020-06-30)
+
+
+### Bug Fixes
+
+* **test:** release ([caa77e0](https://github.com/giautm/semantic-example/commit/caa77e0c7610f5dbaa9f4084f5c8287e9c80d13f))
+
 ## [1.0.3](https://github.com/giautm/semantic-example/compare/v1.0.2...v1.0.3) (2020-06-30)
 
 
