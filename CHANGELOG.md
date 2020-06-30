@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/giautm/semantic-example/compare/v1.0.5...v1.0.6) (2020-06-30)
+
+
+### Bug Fixes
+
+* semantic add sdkVersion to fix android versionCode ([a58bb4d](https://github.com/giautm/semantic-example/commit/a58bb4dc63fdd582658e8a41cf927d37f3d5cc99))
+
 ## [1.0.5](https://github.com/giautm/semantic-example/compare/v1.0.4...v1.0.5) (2020-06-30)
 
 
