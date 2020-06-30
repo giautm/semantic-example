@@ -1,5 +1,6 @@
 {
   "expo": {
+    "sdkVersion": "38.0.0",
     "name": "semantic-example",
     "slug": "semantic-example",
     "version": "1.0.4",
