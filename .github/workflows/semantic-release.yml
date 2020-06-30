@@ -11,6 +11,7 @@ jobs:
       - run: npm ci
       - name: Release
         env:
+          GITHUB_ACTION: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GIT_AUTHOR_NAME: giautm
