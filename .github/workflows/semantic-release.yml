@@ -13,5 +13,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GIT_AUTHOR_NAME: giautm
+          GIT_AUTHOR_EMAIL: giau.tmg@gmail.com
+          GIT_COMMITTER_NAME: giautm
+          GIT_COMMITTER_EMAIL: giau.tmg@gmail.com
         run: npx semantic-release
-
+        
