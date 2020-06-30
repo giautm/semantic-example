@@ -1,0 +1,34 @@
+{
+  "verifyConditions": [
+    "semantic-release-expo",
+    "@semantic-release/changelog",
+    "@semantic-release/git",
+    "@semantic-release/npm"
+  ],
+  "prepare": [
+    {
+      "path": "semantic-release-expo",
+      "versions": {
+        "android": "${code}",
+        "ios": "${next.raw}",
+        "version": "${next.raw}"
+      },
+      "manifests": ["app.dev.json", "app.release.json"]
+    },
+    "@semantic-release/changelog",
+    "@semantic-release/npm",
+    {
+      "path": "@semantic-release/git",
+      "assets": [
+        "CHANGELOG.md",
+        "package.json",
+        "package-lock.json",
+        "app.dev.json",
+        "app.release.json"
+      ]
+    }
+  ],
+  "publish": false,
+  "success": false,
+  "fail": false
+}
