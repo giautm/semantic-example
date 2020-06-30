@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/giautm/semantic-example/compare/v1.0.4...v1.0.5) (2020-06-30)
+
+
+### Bug Fixes
+
+* change android versionCode ([f532d22](https://github.com/giautm/semantic-example/commit/f532d22202bf7d8a6f06c3a412340a27beea0ae8))
+
 ## [1.0.4](https://github.com/giautm/semantic-example/compare/v1.0.3...v1.0.4) (2020-06-30)
 
 
