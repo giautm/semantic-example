@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/giautm/semantic-example/compare/v1.0.1...v1.0.2) (2020-06-30)
+
+
+### Bug Fixes
+
+* **semantic-release:** added publish step ([4e116d9](https://github.com/giautm/semantic-example/commit/4e116d9ef7750e0532868ddfaefabd5eeaa0ddab))
+
 ## [1.0.1](https://github.com/giautm/semantic-example/compare/v1.0.0...v1.0.1) (2020-06-30)
 
 
