@@ -8,11 +8,6 @@
   "prepare": [
     {
       "path": "semantic-release-expo",
-      "versions": {
-        "android": "${code}",
-        "ios": "${next.raw}",
-        "version": "${next.raw}"
-      },
       "manifests": ["app.dev.json", "app.release.json"]
     },
     "@semantic-release/changelog",
